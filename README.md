@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 # 💫 About Me:
 🔭 I’m currently working as a **Solution Engineer** at **Pluvion** 💧  
